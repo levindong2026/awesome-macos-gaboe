@@ -59,6 +59,10 @@ Powerful file archiver with support for multiple formats and encryption.
 
 Mechanical keyboard sound simulator for your Mac.
 
+## [Klakk](https://tryklakk.com/en/)
+
+Keyboard sound app for macOS 14+ with 14 sound packs, volume and output-device controls. Paid, with a 3-day trial from first launch.
+
 ## [DaisyDisk](https://daisydiskapp.com/)
 
 Visual disk space analyzer to help find and delete large, unused files.
